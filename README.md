@@ -1,1 +1,1 @@
-future home of the audio narrative
+I have begun to make my audio narrative, I have added the opening sounds of a doorbell ringing to mark the start of the story. I cut and edited the doorbell so it gave the effect of a someone impatient for the door to be opened. I also reduced the background noise that was in the audio clip so it now only has the doorbell noise. I will then continue to add voices, in the following days.
