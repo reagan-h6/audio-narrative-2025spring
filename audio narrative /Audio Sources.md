@@ -14,3 +14,5 @@
 |City traffic background noise| traffic city heavy close downtown Montreal, Canada.flac by kyles -- https://freesound.org/s/637894/ -- | Creative Commons 0|
 |elevator ride| Reagan Hamilton, 2/2/2025|
 |Door open/close |Reagan Hamilton, 2/2/2025|
+|elevator music | music_for_video. (2021, November 18). Elevator Music Bossa Nova Background Music ( version 60s) | royalty-free music - pixabay. Elevator Music bossa nova background music ( Version 60s). [linl](https://pixabay.com/music/elevator-music-elevator-music-bossa-nova-background-music-version-60s-10900/) |
+| bus door | Finnolia Productions Inc. (n.d.). Sound effect: Bus door open. Sound Effect Bus Door Open. https://www.soundeffectsplus.com/product/bus-door-open-01/#google_vignette | royalty free license for personal projects only
