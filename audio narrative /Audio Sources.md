@@ -4,7 +4,7 @@
 |Zipper | Zipper Weak Pull 01 by Rudmer_Rotteveel -- https://freesound.org/s/536238/ |  Creative Commons 0|
 |Keys | RattlingKeys.wav by prometheus888 -- https://freesound.org/s/506796/ | Creative Commons 0 |
 |heel walking | Footsteps_Quick.wav by georgisound -- https://freesound.org/s/368833/ |Creative Commons 0|
-|Getting ready song|Tate McRae. Greedy. SoundCloud, uploaded by Pete Summers, April 1, 2024 https://soundcloud.com/petesummers/tate-mcrae-greedy-hrly-eternity-edit?si=03363b2231a744638b90944e6ef22fd7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing|creative commons license |
+|Getting ready song|Tate McRae. Greedy. SoundCloud, uploaded by Pete Summers, April 1, 2024 [Link](https://soundcloud.com/petesummers/tate-mcrae-greedy-hrly-eternity-edit?si=03363b2231a744638b90944e6ef22fd7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |creative commons license |
 |Restaurant Noise | RestaurantInParisPart2.mp3 by Greg Baumont -- https://freesound.org/s/90202/ | Attribution NonCommercial 4.0 |
 |Bus background noise | Reagan Hamilton 2,1,2025 |
 |Bus ID ding | Reagan Hamilton 2,1,2025|
