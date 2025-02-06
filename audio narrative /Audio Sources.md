@@ -16,3 +16,5 @@
 |Door open/close |Reagan Hamilton, 2/2/2025|
 |elevator music | music_for_video. (2021, November 18). Elevator Music Bossa Nova Background Music ( version 60s) royalty-free music - pixabay. Elevator Music bossa nova background music ( Version 60s). [link](https://pixabay.com/music/elevator-music-elevator-music-bossa-nova-background-music-version-60s-10900/) |royalty free license for personal projects only| 
 | bus door | Finnolia Productions Inc. (n.d.). Sound effect: Bus door open. Sound Effect Bus Door Open. https://www.soundeffectsplus.com/product/bus-door-open-01/#google_vignette | royalty free license for personal projects only| 
+|Construction noise |jack hammers by mycompasstv https://freesound.org/s/708042/ |Creative Commons 0|
+|car horn |Car Honk MUS 152.mp3 by ja20208 -- https://freesound.org/s/570217/ | Creative Commons 0|
