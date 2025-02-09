@@ -14,9 +14,10 @@
 |City traffic background noise| traffic city heavy close downtown Montreal, Canada.flac by kyles -- https://freesound.org/s/637894/ -- | Creative Commons 0|
 |elevator ride| Reagan Hamilton, 2/2/2025|
 |Door open/close |Reagan Hamilton, 2/2/2025|
-|elevator music | music_for_video. (2021, November 18). Elevator Music Bossa Nova Background Music ( version 60s) royalty-free music - pixabay. Elevator Music bossa nova background music ( Version 60s). [link](https://pixabay.com/music/elevator-music-elevator-music-bossa-nova-background-music-version-60s-10900/) |royalty free license for personal projects only| 
-| bus door | Finnolia Productions Inc. (n.d.). Sound effect: Bus door open. Sound Effect Bus Door Open. https://www.soundeffectsplus.com/product/bus-door-open-01/#google_vignette | royalty free license for personal projects only| 
+|elevator music | music_for_video. (2021, November 18). Elevator Music Bossa Nova Background Music ( version 60s) royalty-free music - pixabay. Elevator Music bossa nova background music ( Version 60s). [link](https://pixabay.com/music/elevator-music-elevator-music-bossa-nova-background-music-version-60s-10900/) |royalty free license for personal projects only|
+| bus door | Finnolia Productions Inc. (n.d.). Sound effect: Bus door open. Sound Effect Bus Door Open. https://www.soundeffectsplus.com/product/bus-door-open-01/#google_vignette | royalty free license for personal projects only|
 |Construction noise |jack hammers by mycompasstv https://freesound.org/s/708042/ |Creative Commons 0|
 |car horn |Car Honk MUS 152.mp3 by ja20208 -- https://freesound.org/s/570217/ | Creative Commons 0|
 |glasses clinking| Glasses Clinking by elricadavis -- https://freesound.org/s/764600/  | Creative Commons 0  |
 |wine glass clink |GLASImpt_cheers_clink_glass_of_wine_ZOOM_H6_XYH6.wav by DBS_Sounds https://freesound.org/s/613763/|Attribution 4.0|
+|jazz music| nickpanek620. (2024b, August 29). Late night big band swing jazz instrumental royalty-free music - pixabay. Late Night Big Band Swing Jazz Instrumental. https://pixabay.com/music/traditional-jazz-late-night-big-band-swing-jazz-instrumental-236168/| 
