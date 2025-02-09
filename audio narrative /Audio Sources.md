@@ -20,4 +20,4 @@
 |car horn |Car Honk MUS 152.mp3 by ja20208 -- https://freesound.org/s/570217/ | Creative Commons 0|
 |glasses clinking| Glasses Clinking by elricadavis -- https://freesound.org/s/764600/  | Creative Commons 0  |
 |wine glass clink |GLASImpt_cheers_clink_glass_of_wine_ZOOM_H6_XYH6.wav by DBS_Sounds https://freesound.org/s/613763/|Attribution 4.0|
-|jazz music| nickpanek620. (2024b, August 29). Late night big band swing jazz instrumental royalty-free music - pixabay. Late Night Big Band Swing Jazz Instrumental. https://pixabay.com/music/traditional-jazz-late-night-big-band-swing-jazz-instrumental-236168/| 
+|jazz music| nickpanek620. (2024b, August 29). Late night big band swing jazz instrumental royalty-free music - pixabay. Late Night Big Band Swing Jazz Instrumental. https://pixabay.com/music/traditional-jazz-late-night-big-band-swing-jazz-instrumental-236168/| royalty free license for personal projects only|
