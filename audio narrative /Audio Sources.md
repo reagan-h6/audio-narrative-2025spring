@@ -8,7 +8,7 @@
 |Restaurant Noise | RestaurantInParisPart2.mp3 by Greg Baumont -- https://freesound.org/s/90202/ | Attribution NonCommercial 4.0 |
 |Bus background noise | Reagan Hamilton 2,1,2025 |
 |Bus ID ding | Reagan Hamilton 2,1,2025|
-|talking audios|Hannah Powell, Alexis Burg, Fabiola Wah, Reagan Hamilton 2,1,2025|
+|talking audios|Hannah Powell, Alexis Burg, Maya Yashinsky Fabiola Wah, Reagan Hamilton 2,1,2025|
 |Restaurant door bell ring | Shop_Door_Opens_with_Bell_Rings_SFX by bigspamtonfan69 -- https://freesound.org/s/726253/| Creative Commons 0|
 |Bus arriving | 4 - Forbes & Morewood Intersection - Trk-6 N.West to N.East by sbmacdonald -- https://freesound.org/s/477917/ | Attribution 3.0|
 |City traffic background noise| traffic city heavy close downtown Montreal, Canada.flac by kyles -- https://freesound.org/s/637894/ -- | Creative Commons 0|
@@ -18,3 +18,5 @@
 | bus door | Finnolia Productions Inc. (n.d.). Sound effect: Bus door open. Sound Effect Bus Door Open. https://www.soundeffectsplus.com/product/bus-door-open-01/#google_vignette | royalty free license for personal projects only| 
 |Construction noise |jack hammers by mycompasstv https://freesound.org/s/708042/ |Creative Commons 0|
 |car horn |Car Honk MUS 152.mp3 by ja20208 -- https://freesound.org/s/570217/ | Creative Commons 0|
+|glasses clinking| Glasses Clinking by elricadavis -- https://freesound.org/s/764600/  | Creative Commons 0  |
+|wine glass clink |GLASImpt_cheers_clink_glass_of_wine_ZOOM_H6_XYH6.wav by DBS_Sounds https://freesound.org/s/613763/|Attribution 4.0|
