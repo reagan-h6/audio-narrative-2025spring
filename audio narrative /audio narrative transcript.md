@@ -32,6 +32,8 @@ walking noises
 
 elevator
 
+elevator music
+
 door open
 
 door close
@@ -58,6 +60,8 @@ bus chatter/noises
 
 bus noises
 
+fast forward effect 
+
 "this is our stop"
 
 walk
@@ -82,6 +86,42 @@ walk noises
 
 “Ill have a diet coke please”
 
-"Ill have a shirley temple' 
+"Ill have a shirley temple'
 
-"Can I have an Iced Tea" 
+"Can I have an Iced Tea"
+
+“here you go”
+
+“thank you”
+
+glass clinking
+
+fast forward effect
+
+“we’ll take another round please”
+
+“coming right up”
+
+“thanks”
+
+fast forward effect
+
+“can I get you guys anything else?”
+
+“can we get the check”
+
+“here you go”
+
+“have a good night”
+
+“this was fun lets do this again sometime”
+
+“yes definitely, see you guys soon”
+
+“bye”
+
+“bye”
+
+footsteps off in the distance
+
+footsteps
